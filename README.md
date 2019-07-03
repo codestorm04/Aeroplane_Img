@@ -6,7 +6,7 @@ and 40 imgaes per class.
 
 Because some of the samples are extremely similar like below
 
-![sample_1](sample_1.jpg)
+![sample_1](sample_1.png)
 
 it's quite valuable to measure the discriminative of a classifier and the semantic representations.
 
